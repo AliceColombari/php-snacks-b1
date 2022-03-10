@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+    margin: 50px;
+    background-color: #007EA7;
+}
+
+h3 {
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
+.text {
+    background-color: #80CED7;
+    border-radius: 20px;
+    border: 8px solid #CCDBDC;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+.text_divided {
+    background-color: #9AD1D4;
+    border-radius: 20px;
+    padding: 20px;
+    border: 8px solid #CCDBDC;
+}
+
